@@ -10,4 +10,5 @@ Me llamo Diego, es un placer tenerte aquí.
 * Arduino (intermedio)
 * JavasScript (basico)
 * Java (basico)
-y en camino a mas…
+ 
+y en camino a aprender mas…
